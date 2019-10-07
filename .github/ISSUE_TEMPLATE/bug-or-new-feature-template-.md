@@ -9,11 +9,15 @@ assignees: ''
 
 ### Descriptive Summary
 
-A short description of the feature, including wireframes, screenshots, or videos if available
+A short description of the feature, including wireframes, screenshots, or videos if available.
+
+Consider using the User Story format:
+
+As a < type of user >, I want < some goal > so that < some reason >.
 
 ### Background 
 
-As a < type of user >, I want < some goal > so that < some reason >.
+Additional information about the reason for the feature or story. 
 
 ### Acceptance Criteria
 
