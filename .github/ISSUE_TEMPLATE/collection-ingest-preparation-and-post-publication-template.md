@@ -13,52 +13,49 @@ assignees: ''
 * Collection number:
 
 ### Objects
-* Single Objects/Compound: 
+
+* Type of content (images, audio, albums, etc.):
+* Single objects / compound: 
 * Special requirements / issues:
 
+### Metadata Preparation
 
-### Metadata Assessment and Remediation
-
-* [ ] Item-level metadata remediated
+* [ ] Object-level metadata created / remediated
+* [ ] Object-level metadata formatted per ingest spreadsheet specification
 * [ ] Spreadsheet available on DOMTP
+* [ ] DI notified
 
 * Spreadsheet filename:
-
 * Special requirements / issues:
-
 
 ### File Assessment / Technical Processing 
 
 * [ ] Files assessed for readiness to move
-
 * [ ] Files moved to dams_ingest
 
-* Directory Name
+* Directory name:
 
+### Pre-Ingest
 
-## Once the above tasks are completed, but this issue on hold while the collection is ingested, QA'd, and Published
+* [ ] Metadata spreadsheet(s) moved to dams_ingest
+* [ ] Ned notified; tickets created for collection ingest, QA work, and publication
+
+## Once the above tasks are completed, this issue on hold while the collection is ingested, QA'd, and published
 
 ### Post Publication Tasks
 ### Calisphere Publication
  
-* [ ] Collection Registry Updated
- 
-* [ ] DPLA OAI Feed generated/checked
-
+* [ ] Calisphere Collection Registry updated
+* [ ] DPLA OAI feed generated / checked
 * [ ] CDL notified
-
 * [ ] Test Calisphere harvest approved
-
 
 ### Primo Integration
 
 * [ ] Create Discovery Import Profile
-
 * [ ] Test harvest in Primo Sandbox
-
 * [ ] Publish Import Profile in Primo Prod
-
 
 ### Communication
 
-* [ ] Spec Coll Notified
+* [ ] Spec Coll notified
