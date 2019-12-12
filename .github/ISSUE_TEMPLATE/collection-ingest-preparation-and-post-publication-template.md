@@ -42,9 +42,9 @@ assignees: ''
 * [ ] Metadata spreadsheet(s) moved to dams_ingest
 * [ ] Ned notified; tickets created for collection ingest, QA work, and publication
 
-## Once the above tasks are completed, this issue on hold while the collection is ingested, QA'd, and published
+### Once the above tasks are completed, this issue on hold while the collection is ingested, QA'd, and published
 
-### Post Publication Tasks
+## Post Publication Tasks
 ### Calisphere Publication
  
 * [ ] Calisphere Collection Registry updated
