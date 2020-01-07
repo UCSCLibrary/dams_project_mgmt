@@ -25,7 +25,6 @@ assignees: ''
 * [ ] Spreadsheet available on DOMTP
 * [ ] DI notified
 
-
 * Spreadsheet filename:
 * Special requirements / issues:
 
@@ -33,7 +32,6 @@ assignees: ''
 
 * [ ] Files assessed for readiness to move
 * [ ] Files moved to dams_ingest
-
 
 * Directory name:
 * Special requirements / issues:
@@ -62,3 +60,13 @@ assignees: ''
 ### Communication
 
 * [ ] Spec Coll notified
+
+### CONTENTdm collection removal 
+
+* [ ] Items deleted from CONTENTdm
+* [ ] "About the collections" description on CONTENTdm homepage updated with link to DAMS
+* [ ] Remove links from Library resources (catalog, finding aid, library website)
+* [ ] Google search console report for links to CONTENTdm
+* [ ] Google Analytics search for most popular links
+* [ ] ARKS’s updated (if necessary)
+
