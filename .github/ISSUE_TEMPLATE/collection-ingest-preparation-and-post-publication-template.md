@@ -1,5 +1,5 @@
 ---
-name: Collection Ingest Preparation and Post-Publication template
+name: Collection Ingest Preparation template
 about: Tasks for preparing a collection for ingest into the DAMS
 title: "[Collection Ingest Prep]"
 labels: ''
@@ -40,33 +40,4 @@ assignees: ''
 
 * [ ] Metadata spreadsheet(s) moved to dams_ingest
 * [ ] Ned notified; tickets created for collection ingest, QA work, and publication
-
-### Once the above tasks are completed, put this issue on hold while the collection is ingested, QA'd, and published
-
-## Post Publication Tasks
-### Calisphere Publication
- 
-* [ ] Calisphere Collection Registry updated
-* [ ] DPLA OAI feed generated / checked
-* [ ] CDL notified
-* [ ] Test Calisphere harvest approved
-
-### Primo Integration
-
-* [ ] Create Discovery Import Profile
-* [ ] Test harvest in Primo Sandbox
-* [ ] Publish Import Profile in Primo Prod
-
-### Communication
-
-* [ ] Spec Coll notified
-
-### CONTENTdm collection removal 
-
-* [ ] Items deleted from CONTENTdm
-* [ ] "About the collections" description on CONTENTdm homepage updated with link to DAMS
-* [ ] Remove links from Library resources (catalog, finding aid, library website)
-* [ ] Google search console report for links to CONTENTdm
-* [ ] Google Analytics search for most popular links
-* [ ] ARKS’s updated (if necessary)
 
