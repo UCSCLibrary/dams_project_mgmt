@@ -30,7 +30,8 @@ assignees: ''
 
 ### File Assessment / Technical Processing 
 
-* [ ] Files assessed for readiness to move
+* [ ] Files assessed - match spreadsheet filenames
+* [ ] Digitization quality assessed
 * [ ] Files moved to dams_ingest
 
 * Directory name:
@@ -40,4 +41,3 @@ assignees: ''
 
 * [ ] Metadata spreadsheet(s) moved to dams_ingest
 * [ ] Ned notified; tickets created for collection ingest, QA work, and publication
-
