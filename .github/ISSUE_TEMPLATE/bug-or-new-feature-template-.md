@@ -1,6 +1,6 @@
 ---
 name: 'Bug or New Feature Template '
-about: Describe this issue template's purpose here.
+about: Serves the generic DAMS Project issue template.
 title: ''
 labels: ''
 assignees: ''
