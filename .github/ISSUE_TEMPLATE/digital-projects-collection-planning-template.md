@@ -110,9 +110,10 @@ Digital Initiatives librarian(s):
 Section completed by:
 
 
-## Section 6: Approvals
+## Section 6: Metadata & File Locations
 
-Examples would include department heads, project managers, etc.
+Metadata spreadsheet:
+Files:
 
 ## Actions & Acceptance Criteria 
 _(workflow specific to each collection, i.e., the steps required to prepare it for ingest)_
