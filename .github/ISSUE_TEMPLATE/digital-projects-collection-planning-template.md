@@ -16,6 +16,8 @@ Formal collection title:
 
 Collection number:
 
+Collection description:
+
 If a collection is being processed by series, formal series titles and numbering (recorded in the order in which the series will be processed):
 
 ### Objects
@@ -41,6 +43,8 @@ Section completed by:
 
 
 ## Section 2: Metadata Assessment
+
+Metadata source(s):
 
 Metadata properties to be included:
 
