@@ -32,6 +32,8 @@ Rights holder:
 
 Access rights:
 
+Rights Status (value from RightsStatements.org):
+
 
 Processing archivist(s):
 
