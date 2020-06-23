@@ -18,6 +18,8 @@ Collection number:
 
 Collection description:
 
+Link to related finding aid:
+
 If a collection is being processed by series, formal series titles and numbering (recorded in the order in which the series will be processed):
 
 ### Objects
