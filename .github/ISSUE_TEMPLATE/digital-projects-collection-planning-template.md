@@ -120,7 +120,6 @@ _(workflow specific to each collection, i.e., the steps required to prepare it f
 
 - [ ]  Collection Information and planning/assessment sections (1-7) completed
 - [ ]  Initial project meeting
+- [ ]  Metadata spreadsheet prepared
 - [ ]  Files assessed and prepared for ingest
 - [ ]  Customizations for display are discussed and documented
-- [ ]  
-- [ ]
