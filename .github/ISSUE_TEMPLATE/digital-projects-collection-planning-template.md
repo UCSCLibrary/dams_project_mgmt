@@ -66,21 +66,28 @@ Section completed by:
 
 File format(s) for preservation masters:
 
-File format(s) for derivatives:
-
 File naming conventions:
 
-File directory:
+File directory on Artifacts2:
 
 Link to digitization initial assessment worksheet:
 
-
 Digitization specialist(s):
 
-Section completed by:
+## Section 4: File assessment and processing
+(This section is commonly used for previously digitized or outsourced digitization projects)
 
+- [ ] Master files located and organized on Artifacts
 
-## Section 4: DAMS Development Assessment
+- [ ] File quality assessed and standards documented on the digital assessment worksheet
+
+- [ ] Files processed if needed
+
+- [ ] Filenames matched to metadata spreadsheet
+
+- [ ] Files saved on dams_ingest
+
+## Section 5: DAMS Development Assessment
 
 Development work required?: Y/N   (if Y →)
     
@@ -90,27 +97,20 @@ Brief description of new feature:
 Subject Matter Expert(s):
     
 Developer(s):
-    
-Section completed by:
 
 
-## Section 5: Display Assessment
+## Section 6: Display Assessment
 
-Homepage:
+Modifcations necessary for collection landing page:
 
-Thumbnail Image:
+Thumbnail Image for DAMS home page:
 
 Brief Description:
 
 Customizations, e.g., new format icons:
 
 
-Digital Initiatives librarian(s):
-
-Section completed by:
-
-
-## Section 6: Metadata & File Locations
+## Section 7: Metadata & File Locations
 
 Metadata spreadsheet:
 Files:
@@ -118,9 +118,9 @@ Files:
 ## Actions & Acceptance Criteria 
 _(workflow specific to each collection, i.e., the steps required to prepare it for ingest)_
 
-- [ ]  Collection Information and planning/assessment sections (1-5) completed
+- [ ]  Collection Information and planning/assessment sections (1-6) completed
 - [ ]  Initial project meeting
-- [ ]  ...
-- [ ]  
+- [ ]  Files assessed and prepared for ingest
+- [ ]  Customizations for display are discussed and documented
 - [ ]  
 - [ ]
