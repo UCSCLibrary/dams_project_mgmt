@@ -118,7 +118,7 @@ Files:
 ## Actions & Acceptance Criteria 
 _(workflow specific to each collection, i.e., the steps required to prepare it for ingest)_
 
-- [ ]  Collection Information and planning/assessment sections (1-6) completed
+- [ ]  Collection Information and planning/assessment sections (1-7) completed
 - [ ]  Initial project meeting
 - [ ]  Files assessed and prepared for ingest
 - [ ]  Customizations for display are discussed and documented
