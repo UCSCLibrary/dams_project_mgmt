@@ -30,10 +30,14 @@ assignees: ''
 
 ### File Assessment / Technical Processing 
 
-* [ ] Files moved to one flat directory
-* [ ] Files assessed - match spreadsheet filenames
-* [ ] Digitization quality assessed
-* [ ] Files moved to dams_ingest
+* [ ] Locate modified TIFFs and consolidate in one directory
+* [ ] Check files against metadata spreadsheet and reconcile discrepancies
+* [ ] Create Exif spreadsheet
+* [ ] Evaluate metadata embedded in files
+* [ ] Evaluate files by spot-checking
+* [ ] Implement necessary corrections
+* [ ] Document if files meet FADGI guidelines in ticket and read-me file in folder on diginit2
+* [ ] Copy files to dams_ingest
 
 * Directory name:
 * Special requirements / issues:
