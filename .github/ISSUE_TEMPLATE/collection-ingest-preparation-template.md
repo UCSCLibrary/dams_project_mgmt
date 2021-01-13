@@ -30,6 +30,7 @@ assignees: ''
 
 ### File Assessment / Technical Processing 
 
+* [ ] Files moved to one flat directory
 * [ ] Files assessed - match spreadsheet filenames
 * [ ] Digitization quality assessed
 * [ ] Files moved to dams_ingest
